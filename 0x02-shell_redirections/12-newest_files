@@ -1,0 +1,7 @@
+#!/bin/bash
+#this script will display the ten newest files in the current directory
+
+# One file per line
+#Sorted from the newest to the oldest
+
+ls -1t

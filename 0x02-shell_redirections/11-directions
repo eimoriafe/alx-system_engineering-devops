@@ -1,2 +1,2 @@
 #!/bin/bash
-tree -d -L 2 & ls -lRa 
+tree -a -L 2 & ls -lRa 
