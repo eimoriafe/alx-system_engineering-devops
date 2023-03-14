@@ -1,0 +1,3 @@
+#!/bin/bash
+#this script counts the number of lines containing the pattern 'bin' passwd file
+grep -c 'bin' /etc/passwd
