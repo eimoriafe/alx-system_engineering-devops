@@ -1,0 +1,4 @@
+#!/bin/bash
+#this script displays root in the passwd file
+grep -I 'root' /etc/passwd
+
