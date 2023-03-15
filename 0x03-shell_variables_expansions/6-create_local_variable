@@ -1,6 +1,2 @@
 #!/bin/bash
-
-	setbest(){
-		local $BEST="School"
-		echo $BEST
-	}
+local $BEST="School"
